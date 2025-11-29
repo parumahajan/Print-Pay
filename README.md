@@ -1,3 +1,0 @@
-# Serbot
-
-This repository consists
